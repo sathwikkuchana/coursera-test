@@ -60,7 +60,7 @@ section
 		width:30%%;
 	}
 }
-@media(min-width:900px) and (max-width:991px)
+@media(min-width:762px) and (max-width:991px)
 {
 	#b1{
 		width:40%;
@@ -75,7 +75,7 @@ section
 		clear:both;
 	}
 }
-@media(max-width:899px)
+@media(max-width:761px)
 {
 	#b1{
 		width:80%;
